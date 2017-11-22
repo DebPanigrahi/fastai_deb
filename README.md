@@ -1,4 +1,2 @@
 # fastai_deb
-# modifications 
-# class/proc              source-file               Comments
-# 
+class/proc              source-file               Comments 
